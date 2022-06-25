@@ -1136,6 +1136,10 @@ video {
     width: 5rem;
   }
 
+  .lg\:cursor-pointer {
+    cursor: pointer;
+  }
+
   .lg\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
